@@ -1,8 +1,0 @@
-datasets
-transformers
-tqdm
-soundfile
-torch
-torchvision
-torchaudio
-librosa
